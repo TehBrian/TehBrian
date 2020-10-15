@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**ItsTehBrian/ItsTehBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brian, and I enjoy creating cool things, whether that be music, software, or artwork. I'm always trying to learn new skills and improve as a person, so that maybe one day I can be the best version of myself!
 
-Here are some ideas to get you started:
+Most of my projects are plugins for Minecraft written in Java, but I'm constantly learning different technologies. My main passion project is [The Floating City](https://thefloating.city), which I've been working on for quite some time, and has followed me through my growth as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you've got an idea for some software or need help with anything, don't hesitate to contact me! I strive to be friendly and kind, and my Discord DMs are always open. My Discord tag is TehBrian#6219. I'll even do some software development work for free if my schedule allows! 
+
+Here are some other places that you can find me:
+- [Website](https://tehbrian.xyz) (if you want even more info on me, maybe check here first..)
+- [Discord Server](https://tehbrian.xyz/discord)
+- [SpigotMC](https://www.spigotmc.org/members/tehbrian.335560/)
+- [Patreon](https://patreon.com/tehbrian) .. hand me your money :)
+
+Also, here's a picture of a cat.
+![](https://github.com/ItsTehBrian/ItsTehBrian/raw/main/cat.png)
