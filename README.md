@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Brian, and I enjoy creating cool things, whether that be music, software, or artwork. I'm always trying to learn new skills and improve as a person, so that maybe one day I can be the best version of myself!
+My name is Brian, and I enjoy creating cool things, whether that be music, software, or artwork. I'm always trying to learn new skills and improve as a person so that maybe one day I can be the best version of myself!
 
 Most of my projects are plugins for Minecraft written in Java, but I'm constantly learning different technologies. My main passion project is [The Floating City](https://thefloating.city), which I've been working on for quite some time, and has followed me through my growth as a developer.
 
@@ -13,4 +13,4 @@ Here are some other places that you can find me:
 - [Patreon](https://patreon.com/tehbrian) .. hand me your money :)
 
 Also, here's a picture of a cat.
-![](https://github.com/ItsTehBrian/ItsTehBrian/raw/main/cat.png)
+![a picture of a cat](https://github.com/ItsTehBrian/ItsTehBrian/raw/main/cat.png)
