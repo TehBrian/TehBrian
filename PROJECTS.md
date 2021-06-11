@@ -53,10 +53,15 @@ The following is an extensive list of the various projects scattered about my Gi
 
 > Reflectively access fields and run methods via text or chest interface from within Minecraft.
 
+[**BuildersReach**][br]
+
+> Place, interact with, and destroy blocks from afar.
+
 [sc]: https://github.com/ItsTehBrian/SimpleChairs
 [iteminator]: https://github.com/ItsTehBrian/Iteminator
 [fl]: https://github.com/ItsTehBrian/Flatland
 [ci]: https://github.com/ItsTehBrian/ClassInterface
+[br]: https://github.com/ItsTehBrian/BuildersReach
 
 ## Minecraft Plugin Libraries
 
