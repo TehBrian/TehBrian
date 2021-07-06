@@ -6,15 +6,15 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [**BuildersUtilities**][bu]
 
-> A fork of a brilliant plugin made by Arcaniax. A lot of tiny features that help builders do their thing.
+> A curated bundle of tiny features that help builders do their thing.
 
 [**YetAnotherSignEditor**][yase]
 
-> Easily edit signs with support for colors.
+> Easily modify signs, with support for MiniMessage and legacy color codes.
 
 [**mcmidi**][mcmidi]
 
-> Play music straight into Minecraft from any MIDI device.
+> Play musical tunes into Minecraft from any MIDI device.
 
 [**NoBedExplosions**][nbe]
 
@@ -26,7 +26,7 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [**FixYoGrammar**][fyg]
 
-> Corrects the grammatical errors in chat messages post- or pre-send.
+> Annoyingly correct the grammatical errors in your players' chat messages post- or pre-send.
 
 [bu]: https://github.com/ItsTehBrian/BuildersUtilities
 [yase]: https://github.com/ItsTehBrian/YetAnotherSignEditor
@@ -39,7 +39,7 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [**SimpleChairs**][sc]
 
-> Sit on stairs, or anything really. No more than that.
+> Sit on stairs, or anything really.
 
 [**Iteminator**][iteminator]
 
@@ -71,19 +71,6 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [rh]: https://github.com/ItsTehBrian/RestrictionHelper
 
-### Coming Soon
-
-[**ItemLib**][il]
-
-> A simple utility library for safely manipulating and easily creating Bukkit items for the latest version of Minecraft.
-
-[**tehlib**][tl]
-
-> A random assortment of personalized utilities for developing Paper plugins.
-
-[il]: https://github.com/ItsTehBrian/ItemLib
-[tl]: https://github.com/ItsTehBrian/tehlib
-
 ## Websites
 
 [**itstehbrian.github.io**][itstehbrian]
@@ -96,7 +83,7 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [**legacy-to-minimessage**][ltm]
 
-> A simple website that translates legacy color codes into the MiniMessage format.
+> A simple website which translates legacy color codes into MiniMessage format.
 
 [itstehbrian]: https://github.com/ItsTehBrian/itstehbrian.github.io
 [pc]: https://github.com/ItsTehBrian/painting-calculator
