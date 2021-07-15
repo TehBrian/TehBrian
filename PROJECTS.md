@@ -18,7 +18,7 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [**NoBedExplosions**][nbe]
 
-> Allow sleeping in the nether or the end, or just completely disable it, with configurable messages!
+> Fully control bed and respawn anchor functionality across all worlds, including allowing sleep in the nether or end!
 
 [**ChatTest**][ct]
 
