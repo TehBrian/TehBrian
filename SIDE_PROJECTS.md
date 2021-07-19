@@ -8,11 +8,11 @@ For my main projects, see [PROJECTS.md](PROJECTS.md)
 
 [**devbug**][db]
 
-> An assortment of technical in-game utilities which primarily cater to developers.
+> An assortment of technical utilities to aid server developers.
 
 [**ChatTest**][ct]
 
-> Easily test how messages will look in chat.
+> Easily check how messages will look in chat.
 
 [**FixYoGrammar**][fyg]
 
