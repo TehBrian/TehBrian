@@ -1,5 +1,7 @@
 The following is an extensive list of the various projects scattered about my GitHub repository list.
 
+For projects that are smaller but still worthy of being categorized, check out [SIDE_PROJECTS.md](SIDE_PROJECTS.md).
+
 ---
 
 ## Minecraft Server Plugins
@@ -10,7 +12,7 @@ The following is an extensive list of the various projects scattered about my Gi
 
 [**YetAnotherSignEditor**][yase]
 
-> Easily modify signs, with support for MiniMessage and legacy color codes.
+> Easily modify signs, with support for both MiniMessage and legacy color codes.
 
 [**mcmidi**][mcmidi]
 
@@ -20,20 +22,10 @@ The following is an extensive list of the various projects scattered about my Gi
 
 > Fully control bed and respawn anchor functionality across all worlds, including allowing sleep in the nether or end!
 
-[**ChatTest**][ct]
-
-> Easily test how messages will look in chat.
-
-[**FixYoGrammar**][fyg]
-
-> Annoyingly correct the grammatical errors in your players' chat messages post- or pre-send.
-
 [bu]: https://github.com/ItsTehBrian/BuildersUtilities
 [yase]: https://github.com/ItsTehBrian/YetAnotherSignEditor
 [mcmidi]: https://github.com/mcmidi-uwu
 [nbe]: https://github.com/ItsTehBrian/NoBedExplosions
-[ct]: https://github.com/ItsTehBrian/ChatTest
-[fyg]: https://github.com/ItsTehBrian/FixYoGrammar
 
 ### Coming Soon
 
@@ -49,10 +41,6 @@ The following is an extensive list of the various projects scattered about my Gi
 
 > Minecraft, but in two dimensions.
 
-[**ClassInterface**][ci]
-
-> Reflectively access fields and run methods via text or chest interface from within Minecraft.
-
 [**BuildersReach**][br]
 
 > Place, interact with, and destroy blocks from afar.
@@ -60,7 +48,6 @@ The following is an extensive list of the various projects scattered about my Gi
 [sc]: https://github.com/ItsTehBrian/SimpleChairs
 [iteminator]: https://github.com/ItsTehBrian/Iteminator
 [fl]: https://github.com/ItsTehBrian/Flatland
-[ci]: https://github.com/ItsTehBrian/ClassInterface
 [br]: https://github.com/ItsTehBrian/BuildersReach
 
 ## Minecraft Plugin Libraries
@@ -81,13 +68,8 @@ The following is an extensive list of the various projects scattered about my Gi
 
 > Tool which aids in the creation of images tailored for importing into Minecraft via maps in itemframes.
 
-[**legacy-to-minimessage**][ltm]
-
-> A simple website which translates legacy color codes into MiniMessage format.
-
 [itstehbrian]: https://github.com/ItsTehBrian/itstehbrian.github.io
 [pc]: https://github.com/ItsTehBrian/painting-calculator
-[ltm]: https://github.com/ItsTehBrian/legacy-to-minimessage
 
 ## CLI Applications
 
