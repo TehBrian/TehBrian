@@ -22,10 +22,10 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Fully control bed and respawn anchor functionality across all worlds, including allowing sleep in the nether or end!
 
-[bu]: https://github.com/ItsTehBrian/BuildersUtilities
-[yase]: https://github.com/ItsTehBrian/YetAnotherSignEditor
+[bu]: https://github.com/TehBrian/BuildersUtilities
+[yase]: https://github.com/TehBrian/YetAnotherSignEditor
 [mcmidi]: https://github.com/mcmidi-uwu
-[nbe]: https://github.com/ItsTehBrian/NoBedExplosions
+[nbe]: https://github.com/TehBrian/NoBedExplosions
 
 ### Coming Soon
 
@@ -45,10 +45,10 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Place, interact with, and destroy blocks from afar.
 
-[sc]: https://github.com/ItsTehBrian/SimpleChairs
-[iteminator]: https://github.com/ItsTehBrian/Iteminator
-[fl]: https://github.com/ItsTehBrian/Flatland
-[br]: https://github.com/ItsTehBrian/BuildersReach
+[sc]: https://github.com/TehBrian/SimpleChairs
+[iteminator]: https://github.com/TehBrian/Iteminator
+[fl]: https://github.com/TehBrian/Flatland
+[br]: https://github.com/TehBrian/BuildersReach
 
 ## Minecraft Plugin Libraries
 
@@ -56,11 +56,11 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > A small shade-in dependency for plugin developers, to ease the pain of checking the building restrictions of various plugins.
 
-[rh]: https://github.com/ItsTehBrian/RestrictionHelper
+[rh]: https://github.com/TehBrian/RestrictionHelper
 
 ## Websites
 
-[**itstehbrian.github.io**][itstehbrian]
+[**tehbrian.github.io**][tehbrian]
 
 > A personal website built with Jekyll, SASS, and love. Not much, but still pretty fancy!
 
@@ -68,8 +68,8 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Tool which aids in the creation of images tailored for importing into Minecraft via maps in itemframes.
 
-[itstehbrian]: https://github.com/ItsTehBrian/itstehbrian.github.io
-[pc]: https://github.com/ItsTehBrian/painting-calculator
+[tehbrian]: https://github.com/TehBrian/tehbrian.github.io
+[pc]: https://github.com/TehBrian/painting-calculator
 
 ## CLI Applications
 
@@ -77,4 +77,4 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > A teeny tiny CLI application to find available domains.
 
-[ds]: https://github.com/ItsTehBrian/domain-scout
+[ds]: https://github.com/TehBrian/domain-scout

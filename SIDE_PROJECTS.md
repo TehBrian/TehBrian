@@ -18,9 +18,9 @@ For my main projects, see [PROJECTS.md](PROJECTS.md)
 
 > Annoyingly correct the grammatical errors in your players' chat messages post- or pre-send.
 
-[db]: https://github.com/ItsTehBrian/devbug
-[ct]: https://github.com/ItsTehBrian/ChatTest
-[fyg]: https://github.com/ItsTehBrian/FixYoGrammar
+[db]: https://github.com/TehBrian/devbug
+[ct]: https://github.com/TehBrian/ChatTest
+[fyg]: https://github.com/TehBrian/FixYoGrammar
 
 ## Minecraft Plugin Libraries
 
@@ -28,7 +28,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md)
 
 > Some small, helpful utilites.
 
-[tl]: https://github.com/ItsTehBrian/tehlib
+[tl]: https://github.com/TehBrian/tehlib
 
 ## Websites
 
@@ -40,5 +40,5 @@ For my main projects, see [PROJECTS.md](PROJECTS.md)
 
 > A small incremental to give you the true experience of being a Tuinity dev.
 
-[ltm]: https://github.com/ItsTehBrian/legacy-to-minimessage
-[pf]: https://github.com/ItsTehBrian/paper-forker
+[ltm]: https://github.com/TehBrian/legacy-to-minimessage
+[pf]: https://github.com/TehBrian/paper-forker
