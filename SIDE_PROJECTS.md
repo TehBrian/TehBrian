@@ -42,3 +42,11 @@ For my main projects, see [PROJECTS.md](PROJECTS.md)
 
 [ltm]: https://github.com/TehBrian/legacy-to-minimessage
 [pf]: https://github.com/TehBrian/paper-forker
+
+## CLI Applications
+
+[**projutil**][pu]
+
+> A CLI app which generates and updates projects.
+
+[pu]: https://github.com/TehBrian/projutil
