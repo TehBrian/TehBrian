@@ -47,6 +47,6 @@ For my main projects, see [PROJECTS.md](PROJECTS.md)
 
 [**projutil**][pu]
 
-> A CLI app which generates and updates projects.
+> A CLI app which generates and updates project files.
 
 [pu]: https://github.com/TehBrian/projutil
