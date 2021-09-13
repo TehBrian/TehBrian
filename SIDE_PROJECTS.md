@@ -26,7 +26,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 [**tehlib**][tl]
 
-> Some small, helpful utilites.
+> A random assortment of personalized utilities for developing Java software.
 
 [tl]: https://github.com/TehBrian/tehlib
 
