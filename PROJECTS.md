@@ -41,14 +41,9 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Minecraft, but in two dimensions.
 
-[**BuildersReach**][br]
-
-> Place, interact with, and destroy blocks from afar.
-
 [sc]: https://github.com/TehBrian/SimpleChairs
 [iteminator]: https://github.com/TehBrian/Iteminator
 [fl]: https://github.com/TehBrian/Flatland
-[br]: https://github.com/TehBrian/BuildersReach
 
 ## Minecraft Plugin Libraries
 
