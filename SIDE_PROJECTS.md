@@ -1,6 +1,6 @@
-A list of some of my smaller, but still useful projects.
+A list of some of my smaller but still useful projects.
 
-For my main projects, see [PROJECTS.md](PROJECTS.md)
+For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 ---
 
