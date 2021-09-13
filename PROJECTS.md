@@ -1,4 +1,4 @@
-The following is an extensive list of the various projects scattered about my GitHub repository list.
+A list of the more important projects scattered about my GitHub.
 
 For projects that are smaller but still worthy of being categorized, check out [SIDE_PROJECTS.md](SIDE_PROJECTS.md).
 
