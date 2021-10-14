@@ -10,9 +10,9 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 > An assortment of technical utilities to aid server developers.
 
-[**ChatTest**][ct]
+[**LegacyChatTest**][ct]
 
-> Easily check how messages will look in chat.
+> Easily test how legacy-formatted messages will look in chat.
 
 [**FixYoGrammar**][fyg]
 
