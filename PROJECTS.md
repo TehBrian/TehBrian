@@ -14,36 +14,31 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Easily modify signs, with support for both MiniMessage and legacy color codes.
 
-[**mcmidi**][mcmidi]
-
-> Play musical tunes into Minecraft from any MIDI device.
-
 [**NoBedExplosions**][nbe]
 
 > Control bed and respawn anchor functionality across all of your worlds, such as allowing sleep in the nether or the end!
 
-[bu]: https://github.com/TehBrian/BuildersUtilities
-[yase]: https://github.com/TehBrian/YetAnotherSignEditor
-[mcmidi]: https://github.com/mcmidi-uwu
-[nbe]: https://github.com/TehBrian/NoBedExplosions
+[**mcmidi**][mcmidi]
 
-### Coming Soon
+> Play musical tunes into Minecraft from any MIDI device.
 
 [**SimpleChairs**][sc]
 
 > Sit on stairs, or anything really.
 
+[bu]: https://github.com/TehBrian/BuildersUtilities
+[yase]: https://github.com/TehBrian/YetAnotherSignEditor
+[nbe]: https://github.com/TehBrian/NoBedExplosions
+[mcmidi]: https://github.com/mcmidi-uwu
+[sc]: https://github.com/TehBrian/SimpleChairs
+
+### Coming Soon
+
 [**Iteminator**][iteminator]
 
 > ???
 
-[**Flatland**][fl]
-
-> Minecraft, but in two dimensions.
-
-[sc]: https://github.com/TehBrian/SimpleChairs
 [iteminator]: https://github.com/TehBrian/Iteminator
-[fl]: https://github.com/TehBrian/Flatland
 
 ## Minecraft Plugin Libraries
 
