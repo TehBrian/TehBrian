@@ -24,10 +24,15 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 ## Minecraft Plugin Libraries
 
+[**RestrictionHelper**][rh]
+
+> A small shade-in dependency for plugin developers, to ease the pain of checking the building restrictions of various plugins.
+
 [**tehlib**][tl]
 
 > A random assortment of personalized utilities for developing Java software.
 
+[rh]: https://github.com/TehBrian/RestrictionHelper
 [tl]: https://github.com/TehBrian/tehlib
 
 ## Websites

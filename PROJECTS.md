@@ -40,14 +40,6 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 [iteminator]: https://github.com/TehBrian/Iteminator
 
-## Minecraft Plugin Libraries
-
-[**RestrictionHelper**][rh]
-
-> A small shade-in dependency for plugin developers, to ease the pain of checking the building restrictions of various plugins.
-
-[rh]: https://github.com/TehBrian/RestrictionHelper
-
 ## Websites
 
 [**tehbrian.github.io**][tehbrian]
