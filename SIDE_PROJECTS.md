@@ -6,6 +6,10 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 ## Minecraft Server Plugins
 
+[**BuildersReach**][br]
+
+> Build from afar.
+
 [**devbug**][db]
 
 > An assortment of technical utilities to aid server developers.
@@ -18,6 +22,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 > Annoyingly correct the grammatical errors in your players' chat messages post- or pre-send.
 
+[br]: https://github.com/TehBrian/BuildersReach
 [db]: https://github.com/TehBrian/devbug
 [ct]: https://github.com/TehBrian/ChatTest
 [fyg]: https://github.com/TehBrian/FixYoGrammar
