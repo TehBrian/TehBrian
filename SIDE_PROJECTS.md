@@ -10,22 +10,30 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 > Build from afar.
 
-[**devbug**][db]
+[**SimpleChairs**][sc]
 
-> An assortment of technical utilities to aid server developers.
-
-[**LegacyChatTest**][ct]
-
-> Easily test how legacy-formatted messages will look in chat.
+> Sit on stairs, or anything really.
 
 [**FixYoGrammar**][fyg]
 
 > Annoyingly correct the grammatical errors in your players' chat messages post- or pre-send.
 
+[**LegacyChatTest**][lct]
+
+> Easily test how legacy-formatted messages will look in chat.
+
 [br]: https://github.com/TehBrian/BuildersReach
-[db]: https://github.com/TehBrian/devbug
-[ct]: https://github.com/TehBrian/ChatTest
+[sc]: https://github.com/TehBrian/SimpleChairs
 [fyg]: https://github.com/TehBrian/FixYoGrammar
+[lct]: https://github.com/TehBrian/ChatTest
+
+### Coming Soon
+
+[**devbug**][db]
+
+> An assortment of technical utilities to aid server developers.
+
+[db]: https://github.com/TehBrian/devbug
 
 ## Minecraft Plugin Libraries
 

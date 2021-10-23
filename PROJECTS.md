@@ -22,15 +22,10 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Play musical tunes into Minecraft from any MIDI device.
 
-[**SimpleChairs**][sc]
-
-> Sit on stairs, or anything really.
-
 [bu]: https://github.com/TehBrian/BuildersUtilities
 [yase]: https://github.com/TehBrian/YetAnotherSignEditor
 [nbe]: https://github.com/TehBrian/NoBedExplosions
-[mcmidi]: https://github.com/mcmidi-uwu
-[sc]: https://github.com/TehBrian/SimpleChairs
+[mcmidi]: https://github.com/mcmidi-uwu2
 
 ### Coming Soon
 
