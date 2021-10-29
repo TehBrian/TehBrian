@@ -25,7 +25,7 @@ For projects that are smaller but still worthy of being categorized, check out [
 [bu]: https://github.com/TehBrian/BuildersUtilities
 [yase]: https://github.com/TehBrian/YetAnotherSignEditor
 [nbe]: https://github.com/TehBrian/NoBedExplosions
-[mcmidi]: https://github.com/mcmidi-uwu2
+[mcmidi]: https://github.com/mcmidi-uwu
 
 ### Coming Soon
 
