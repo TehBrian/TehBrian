@@ -18,6 +18,10 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 > Control bed and respawn anchor functionality across all of your worlds, such as allowing sleep in the nether or the end!
 
+[**Iteminator**][iteminator]
+
+> A modern item editing plugin.
+
 [**mcmidi**][mcmidi]
 
 > Play musical tunes into Minecraft from any MIDI device.
@@ -25,15 +29,8 @@ For projects that are smaller but still worthy of being categorized, check out [
 [bu]: https://github.com/TehBrian/BuildersUtilities
 [yase]: https://github.com/TehBrian/YetAnotherSignEditor
 [nbe]: https://github.com/TehBrian/NoBedExplosions
-[mcmidi]: https://github.com/mcmidi-uwu
-
-### Coming Soon
-
-[**Iteminator**][iteminator]
-
-> ???
-
 [iteminator]: https://github.com/TehBrian/Iteminator
+[mcmidi]: https://github.com/mcmidi-uwu
 
 ## Websites
 
