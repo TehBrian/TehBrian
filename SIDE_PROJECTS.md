@@ -27,14 +27,6 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 [fyg]: https://github.com/TehBrian/FixYoGrammar
 [lct]: https://github.com/TehBrian/ChatTest
 
-### Coming Soon
-
-[**devbug**][db]
-
-> An assortment of technical utilities to aid server developers.
-
-[db]: https://github.com/TehBrian/devbug
-
 ## Minecraft Plugin Libraries
 
 [**RestrictionHelper**][rh]
