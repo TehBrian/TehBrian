@@ -10,7 +10,7 @@ Most of my projects are Minecraft plugins, but I like just about anything to do 
 [discord]: https://chat.tehbrian.xyz
 [projects]: PROJECTS.md
 
----
+ ---
 
-Also, here's a picture of a cat.
-![a picture of a cat](https://github.com/TehBrian/TehBrian/raw/main/cat.png)
+ Also, here's a picture of a cat.
+ ![a picture of a cat](https://github.com/TehBrian/TehBrian/raw/main/cat.jpg)
