@@ -22,10 +22,15 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 > Easily test how legacy-formatted messages will look in chat.
 
+[**ExplosionControl**][ec]
+
+> Provides fine-grained control over every exploding thing in Minecraft.
+
 [br]: https://github.com/TehBrian/BuildersReach
 [sc]: https://github.com/TehBrian/SimpleChairs
 [fyg]: https://github.com/TehBrian/FixYoGrammar
 [lct]: https://github.com/TehBrian/ChatTest
+[ec]: https://github.com/TehBrian/ExplosionControl
 
 ## Minecraft Plugin Libraries
 
