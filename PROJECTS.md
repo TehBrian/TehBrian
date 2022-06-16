@@ -12,7 +12,7 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 [**YetAnotherSignEditor**][yase]
 
-> Easily modify signs, with support for both MiniMessage and legacy color codes.
+> Easily modify signs, with support for both MiniMessage and legacy formatting.
 
 [**NoBedExplosions**][nbe]
 
