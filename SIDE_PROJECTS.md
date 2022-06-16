@@ -12,7 +12,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 [**SimpleChairs**][sc]
 
-> Sit on stairs, or anything really.
+> Allows players to sit on chairs, such as stairs or slabs.
 
 [**FixYoGrammar**][fyg]
 
