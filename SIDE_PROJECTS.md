@@ -49,7 +49,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 [**legacy-to-minimessage**][ltm]
 
-> A simple website which translates legacy color codes into MiniMessage format.
+> A simple website that translates legacy color codes into MiniMessage format.
 
 [**paper-forker**][pf]
 
