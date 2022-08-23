@@ -36,7 +36,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 [**RestrictionHelper**][rh]
 
-> A small shade-in dependency for plugin developers, to ease the pain of checking the building restrictions of various plugins.
+> A small library that eases the pain of checking the build restrictions of various plugins.
 
 [**tehlib**][tl]
 
