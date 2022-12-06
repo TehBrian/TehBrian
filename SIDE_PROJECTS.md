@@ -16,7 +16,7 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 [**FixYoGrammar**][fyg]
 
-> Annoyingly correct the grammatical errors in your players' chat messages post- or pre-send.
+> Annoyingly corrects the grammatical errors in your players' chat messages.
 
 [**LegacyChatTest**][lct]
 
