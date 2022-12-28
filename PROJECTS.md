@@ -1,6 +1,6 @@
 A list of the more important projects scattered about my GitHub.
 
-For projects that are smaller but still worthy of being categorized, check out [SIDE_PROJECTS.md](SIDE_PROJECTS.md).
+For smaller projects that are still worthy of being categorized, check out [SIDE_PROJECTS.md](SIDE_PROJECTS.md).
 
 ---
 
@@ -12,7 +12,7 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 [**YetAnotherSignEditor**][yase]
 
-> Easily modify signs, with support for both MiniMessage and legacy formatting.
+> Easily edit signs, with support for both MiniMessage and legacy formatting.
 
 [**NoBedExplosions**][nbe]
 
@@ -40,7 +40,7 @@ For projects that are smaller but still worthy of being categorized, check out [
 
 [**painting-calculator**][pc]
 
-> Tool which aids in the creation of images tailored for importing into Minecraft via maps in itemframes.
+> A tool that aids in the creation of images tailored for importing into Minecraft via maps in item frames.
 
 [tehbrian]: https://github.com/TehBrian/tehbrian.github.io
 [pc]: https://github.com/TehBrian/painting-calculator

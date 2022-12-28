@@ -1,4 +1,4 @@
-A list of some of my smaller but still useful projects.
+A list of my smaller but still useful projects.
 
 For my main projects, see [PROJECTS.md](PROJECTS.md).
 
@@ -62,6 +62,6 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 [**projutil**][pu]
 
-> A CLI app which generates and updates project files.
+> A CLI tool that generates and updates project files.
 
 [pu]: https://github.com/TehBrian/projutil
