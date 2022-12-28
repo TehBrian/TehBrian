@@ -6,13 +6,13 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 ## Minecraft Server Plugins
 
+[**mcmidi**][mcmidi]
+
+> Play musical tunes into Minecraft from any MIDI device.
+
 [**BuildersReach**][br]
 
 > Build from afar.
-
-[**SimpleChairs**][sc]
-
-> Allows players to sit on chairs, such as stairs or slabs.
 
 [**FixYoGrammar**][fyg]
 
@@ -26,8 +26,8 @@ For my main projects, see [PROJECTS.md](PROJECTS.md).
 
 > Provides fine-grained control over every exploding thing in Minecraft.
 
+[mcmidi]: https://github.com/mcmidi-uwu
 [br]: https://github.com/TehBrian/BuildersReach
-[sc]: https://github.com/TehBrian/SimpleChairs
 [fyg]: https://github.com/TehBrian/FixYoGrammar
 [lct]: https://github.com/TehBrian/ChatTest
 [ec]: https://github.com/TehBrian/ExplosionControl

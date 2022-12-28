@@ -22,15 +22,15 @@ For smaller projects that are still worthy of being categorized, check out [SIDE
 
 > A modern item editing plugin.
 
-[**mcmidi**][mcmidi]
+[**SimpleChairs**][sc]
 
-> Play musical tunes into Minecraft from any MIDI device.
+> Allows players to sit on chairs, such as stairs or slabs.
 
 [bu]: https://github.com/TehBrian/BuildersUtilities
 [yase]: https://github.com/TehBrian/YetAnotherSignEditor
 [nbe]: https://github.com/TehBrian/NoBedExplosions
 [iteminator]: https://github.com/TehBrian/Iteminator
-[mcmidi]: https://github.com/mcmidi-uwu
+[sc]: https://github.com/TehBrian/SimpleChairs
 
 ## Websites
 
