@@ -1,4 +1,4 @@
-## Hey there! 👋
+# Hey there! 🦆
 
 My name is Brian, and I enjoy creating software.
 
@@ -6,13 +6,9 @@ Most of my projects are Minecraft server plugins, but I like just about anything
 
 If you'd like, check out my:
 
-- [Discord][discord]
-- [Projects][projects]
-- [Website][website]
-
-[discord]: https://thbn.me/discord
-[projects]: PROJECTS.md
-[website]: https://tehbrian.xyz
+- [Discord](https://tehbrian.dev/discord)
+- [Projects](PROJECTS.md)
+- [Website](https://tehbrian.xyz)
 
 ---
 
