@@ -109,9 +109,9 @@ A list of the more important projects scattered about my GitHub.
 
 > Builders for every type of item.
 
-[**tehlib**](https://github.com/TehBrian/tehlib)
+[**Agna**](https://github.com/TehBrian/Agna)
 
-> A random assortment of personalized utilities for developing Java software.
+> An assortment of personal utilities for developing Minecraft server plugins.
 
 ### Mods
 
