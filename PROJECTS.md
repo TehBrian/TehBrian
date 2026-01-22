@@ -128,3 +128,7 @@ A list of the more important projects scattered about my GitHub.
 [**Brick**](https://github.com/TehBrian/brick)
 
 > A Discord/terminal AI chatbot based off of circuit10's RoryBot.
+
+[**Ascension**](https://github.com/TehBrian/Ascension)
+
+> The bot used for managing ascension in The Void. 
