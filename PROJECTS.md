@@ -82,10 +82,6 @@ A list of the more important projects scattered about my GitHub.
 
 > Control bed and respawn anchor functionality across all of your worlds, such as allowing sleep in the nether or the end!
 
-[**BuildersReach**](https://github.com/TehBrian/BuildersReach)
-
-> Build from afar.
-
 [**ExplosionControl**](https://github.com/TehBrian/ExplosionControl)
 
 > Provides fine-grained control over every exploding thing in Minecraft.
