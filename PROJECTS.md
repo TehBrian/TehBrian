@@ -72,7 +72,7 @@ A list of the more important projects scattered about my GitHub.
 
 [**Boomo**](https://github.com/TehBrian/Boomo)
 
-> Bomberman-style minigame. Originally developed by usubzero for Meepcraft. Currently closed source.
+> Bomberman-style minigame. Originally developed by usubzero for MeepCraft. Currently closed source.
 
 [**mcmidi**](https://github.com/mcmidi-uwu)
 
