@@ -14,9 +14,9 @@ A list of the more important projects scattered about my GitHub.
 
 > An online playground/parser of HOCON. 
 
-[**wtfawry.com**](https://github.com/TehBrian/wtfawry.com)
+[**wtfawry**](https://github.com/TehBrian/wtfawry)
 
-> WTFAWRY is a simple philosophy for building software fast.
+> WTFAWRY is a simple philosophy for building software fast. 
 
 [**tehbrian.github.io**](https://github.com/TehBrian/tehbrian.github.io)
 
