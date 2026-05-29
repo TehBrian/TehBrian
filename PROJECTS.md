@@ -94,10 +94,9 @@ A list of the more important projects scattered about my GitHub.
 
 > Easily test how legacy-formatted messages will look in chat.
 
-
 ### Server Plugin Libraries
 
-[**RestrictionHelper**](https://github.com/TehBrian/RestrictionHelper)
+[**Mayi**](https://github.com/TehBrian/Mayi)
 
 > A small library that eases the pain of checking the build restrictions of various plugins.
 
@@ -119,7 +118,11 @@ A list of the more important projects scattered about my GitHub.
 
 [**CTIF**](https://github.com/TehBrian/CTIF)
 
-> An image format for use with OpenComputers and ComputerCraft. 
+> An image format for use with OpenComputers and ComputerCraft.
+
+[**Learn HOCON in Y minutes**](https://learnxinyminutes.com/hocon/)
+
+> A practical tour of HOCON delivered as HOCON.
 
 [**Miel**](https://github.com/TehBrian/Miel)
 
