@@ -48,9 +48,9 @@ A list of the more important projects scattered about my GitHub.
 
 ### Servers
 
-[**The Floating City**](https://github.com/thefloatingcity)
+[**Skybound City**](https://github.com/SkyboundCity)
 
-> Endless building in a void world.
+> Pure building in an endless void.
 
 ### Server Plugins
 
